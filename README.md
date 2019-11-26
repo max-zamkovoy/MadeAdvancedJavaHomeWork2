@@ -1,1 +1,1 @@
-# MadeAdvancedJavaHomeWork2
+# Advanced Java Homework 2 for MADE course
